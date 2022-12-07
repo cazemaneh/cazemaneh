@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cazemaneh
 - 👀 I’m interested in get into the coding area and build knowledge
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, C#, Javascript
 - 📫 How to reach me cazenrike@gmail.com
 
 <!---
